@@ -1,0 +1,71 @@
+body {
+    background-color: #a4d0dd;
+}
+
+
+
+.cajamenu {
+    background-color: rgb(69, 128, 77);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: end;
+}
+
+
+
+nav {
+    color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    background-color:rgb(69, 128, 77);
+}
+
+
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contenedor {
+    position: relative;
+    width: 100vh;
+    display: flex;
+    margin: 100px;
+    
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-height: 400px;
+    max-width: 400px;
+}
+
+
+
+.img1 {
+   
+    top: 150px;
+    left: 660px;
+}
+
+.img2 {
+    
+    top: 150px;
+    left: 660px;
+}
+
+.img3 {
+    
+    top: 150px;
+    left: 660px;
+}
+
+
+footer {
+    background-color: rgb(69, 128, 77);
+    color: beige;
+    text-align: center;
+}
